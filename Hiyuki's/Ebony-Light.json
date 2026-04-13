@@ -1,0 +1,163 @@
+{
+    "name": "Ebony Light",
+    "description": "Light theme built on the Ebony palette — blueish whites and pastel steel blues",
+    "authors": [
+        {
+            "name": "Celesth",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#1a2740"
+        ],
+        "HEADER_SECONDARY": [
+            "#3a5272"
+        ],
+        "TEXT_NORMAL": [
+            "#1e2e44"
+        ],
+        "TEXT_MUTED": [
+            "#5a7290"
+        ],
+        "MOBILE_TEXT_HEADING_PRIMARY": [
+            "#1a2740"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#4570a7"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#101826"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#a8b8cc"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#eef1f7"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#e4e9f2"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#dae0ed"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#f4f6fb"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#f0f4fa"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#dce3ef"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4570a7"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#eef1f7"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#f4f6fb"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#e4e9f2"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#eef1f7"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#dce3ef"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#d4dceb"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#c8d3e4"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#c0cadd"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#d4dceb"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#b0bdd0"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#4570a7"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#dce3ef"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#4570a7"
+        ],
+        "TEXT_LINK": [
+            "#4570a7"
+        ],
+        "TEXT_DANGER": [
+            "#5a8ab8"
+        ],
+        "KEYBOARD": [
+            "#dce3ef"
+        ],
+        "BG_BACKDROP": [
+            "#101826B2"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#e4e9f2"
+        ],
+        "CHANNEL_ICON": [
+            "#4a6480"
+        ],
+        "CHAT_BACKGROUND": [
+            "#f4f6fb"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#dce3ef"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#4570a7",
+        "PRIMARY_100": "#1e2e44",
+        "PRIMARY_200": "#c0cadd",
+        "PRIMARY_300": "#4570a7",
+        "PRIMARY_360": "#6f94bf",
+        "PRIMARY_400": "#6f94bf",
+        "PRIMARY_600": "#dce3ef",
+        "PRIMARY_630": "#e4e9f2",
+        "PRIMARY_660": "#eef1f7",
+        "PRIMARY_700": "#eef1f7",
+        "PRIMARY_800": "#f4f6fb",
+        "BLACK_500": "#101826B2",
+        "BRAND_260": "#6f94bf",
+        "BRAND_360": "#4570a7",
+        "BRAND_500": "#4570a7",
+        "BRAND_560": "#3a5e8e",
+        "YELLOW_300": "#4570a7",
+        "GREEN_600": "#4570a7",
+        "RED_400": "#5a8ab8",
+        "WHITE_500": "#ffffff",
+        "GREEN_360": "#6f94bf",
+        "PLUM_23": "#dce3ef",
+        "PLUM_20": "#f4f6fb",
+        "PLUM_18": "#eef1f7",
+        "PLUM_17": "#e4e9f2",
+        "PLUM_16": "#4570a7",
+        "PLUM_13": "#6f94bf",
+        "PLUM_10": "#5a7290",
+        "PLUM_3": "#1e2e44",
+        "PLUM_9": "#1e2e44"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
