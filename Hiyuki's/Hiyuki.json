@@ -1,6 +1,6 @@
 {
     "name": "Hiyuki",
-    "description": "Dark theme with soft periwinkle and cornflower blue accents on neutral semi-black",
+    "description": "Dark theme with soft periwinkle and cornflower blue accents on #141414",
     "authors": [
         {
             "name": "Celesth",
@@ -30,58 +30,58 @@
             "#edf2fb"
         ],
         "INTERACTIVE_MUTED": [
-            "#3a3a3a"
+            "#2e2e2e"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1b1b1b"
+            "#141414"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1b1b1b"
+            "#141414"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#222222"
+            "#191919"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#1f1f1f"
+            "#171717"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#252525"
+            "#1e1e1e"
         ],
         "BACKGROUND_TERTIARY": [
-            "#252525"
+            "#1e1e1e"
         ],
         "BACKGROUND_ACCENT": [
             "#b6ccfe"
         ],
         "BACKGROUND_FLOATING": [
-            "#1b1b1b"
+            "#141414"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1f1f1f"
+            "#171717"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1f1f1f"
+            "#171717"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1b1b1b"
+            "#141414"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#222222"
+            "#191919"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#222222"
+            "#191919"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2b2b2b"
+            "#212121"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2b2b2b"
+            "#212121"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1f1f1f"
+            "#171717"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#333333"
+            "#2a2a2a"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -90,10 +90,10 @@
             "#b6ccfe"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#222222"
+            "#191919"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#222222"
+            "#191919"
         ],
         "CHANNELS_DEFAULT": [
             "#c1d3fe"
@@ -105,22 +105,22 @@
             "#ccdbfd"
         ],
         "KEYBOARD": [
-            "#1b1b1b"
+            "#141414"
         ],
         "BG_BACKDROP": [
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#222222"
+            "#191919"
         ],
         "CHANNEL_ICON": [
             "#d7e3fc"
         ],
         "CHAT_BACKGROUND": [
-            "#1f1f1f"
+            "#171717"
         ],
         "CARD_PRIMARY_BG": [
-            "#222222"
+            "#191919"
         ]
     },
     "rawColors": {
@@ -130,11 +130,11 @@
         "PRIMARY_300": "#c1d3fe",
         "PRIMARY_360": "#abc4ff",
         "PRIMARY_400": "#b6ccfe",
-        "PRIMARY_600": "#1f1f1f",
-        "PRIMARY_630": "#222222",
-        "PRIMARY_660": "#252525",
-        "PRIMARY_700": "#252525",
-        "PRIMARY_800": "#1b1b1b",
+        "PRIMARY_600": "#171717",
+        "PRIMARY_630": "#191919",
+        "PRIMARY_660": "#1e1e1e",
+        "PRIMARY_700": "#1e1e1e",
+        "PRIMARY_800": "#141414",
         "BLACK_500": "#000000B2",
         "BRAND_260": "#c1d3fe",
         "BRAND_360": "#b6ccfe",
@@ -145,10 +145,10 @@
         "RED_400": "#ccdbfd",
         "WHITE_500": "#edf2fb",
         "GREEN_360": "#7a9fd4",
-        "PLUM_23": "#2b2b2b",
-        "PLUM_20": "#1b1b1b",
-        "PLUM_18": "#1b1b1b",
-        "PLUM_17": "#1f1f1f",
+        "PLUM_23": "#212121",
+        "PLUM_20": "#141414",
+        "PLUM_18": "#141414",
+        "PLUM_17": "#171717",
         "PLUM_16": "#b6ccfe",
         "PLUM_13": "#abc4ff",
         "PLUM_10": "#d7e3fc",
