@@ -123,16 +123,16 @@
             "#0d0d0d"
         ],
         "BORDER_STRONG": [
-            "#3a3a3a"
+            "#e0e0e0"
         ],
         "BORDER_MUTED": [
-            "#252525"
+            "#c8c8c8"
         ],
         "BORDER_SUBTLE": [
-            "#1a1a1a"
+            "#aaaaaa"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#2e2e2e"
+            "#c8c8c8"
         ]
     },
     "rawColors": {
@@ -149,13 +149,13 @@
         "PRIMARY_800": "#000000",
         "BLACK_500": "#000000E6",
         "BRAND_260": "#aaaaaa",
-        "BRAND_360": "#1e1e1e",
+        "BRAND_360": "#e0e0e0",
         "BRAND_500": "#777777",
         "BRAND_560": "#666666",
-        "BORDER_STRONG": "#3a3a3a",
-        "BORDER_MUTED": "#252525",
-        "BORDER_SUBTLE": "#1a1a1a",
-        "THREAD_CHANNEL_SPINE": "#2e2e2e",
+        "BORDER_STRONG": "#e0e0e0",
+        "BORDER_MUTED": "#c8c8c8",
+        "BORDER_SUBTLE": "#aaaaaa",
+        "THREAD_CHANNEL_SPINE": "#c8c8c8",
         "YELLOW_300": "#f0f0f0",
         "GREEN_600": "#e0e0e0",
         "RED_400": "#bbbbbb",
