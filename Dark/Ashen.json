@@ -128,6 +128,9 @@
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#c8c8c8"
         ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "c8c8c8"
+        ],
         "THREAD_CHANNEL_SPINE": [
             "#c8c8c8"
         ]
