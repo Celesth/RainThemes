@@ -123,13 +123,13 @@
             "#0d0d0d"
         ],
         "BORDER_MUTED": [
-            "#0d0d0d"
+            "#1d1d1d"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#c8c8c8"
         ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-            "#141414"
+            "#1d1d1d"
         ],
         "BACKGROUND_BASE_LOWEST": [
             "#080808"
