@@ -1,6 +1,6 @@
 {
     "name": "Ashen",
-    "description": "Greyscale theme on warm almond-black — white mention pings, no color",
+    "description": "Greyscale theme on pure AMOLED black — white mention pings, no color",
     "authors": [
         {
             "name": "Celesth",
@@ -30,70 +30,70 @@
             "#f0f0f0"
         ],
         "INTERACTIVE_MUTED": [
-            "#2e2b28"
+            "#2a2a2a"
         ],
         "BACKGROUND_PRIMARY": [
-            "#181614"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#181614"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1d1b18"
+            "#0d0d0d"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#1b1916"
+            "#080808"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#21201c"
+            "#111111"
         ],
         "BACKGROUND_TERTIARY": [
-            "#21201c"
+            "#111111"
         ],
         "BACKGROUND_ACCENT": [
-            "#555350"
+            "#444444"
         ],
         "BACKGROUND_FLOATING": [
-            "#181614"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1b1916"
+            "#080808"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1b1916"
+            "#080808"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#181614"
+            "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1e1c19"
+            "#0d0d0d"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1e1c19"
+            "#0d0d0d"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#252320"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2c2a27"
+            "#222222"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1b1916"
+            "#080808"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#333230"
+            "#252525"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#555350"
+            "#444444"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1e1c19"
+            "#0d0d0d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1e1c19"
+            "#0d0d0d"
         ],
         "CHANNELS_DEFAULT": [
             "#aaaaaa"
@@ -105,22 +105,22 @@
             "#bbbbbb"
         ],
         "KEYBOARD": [
-            "#181614"
+            "#000000"
         ],
         "BG_BACKDROP": [
-            "#0a0907CC"
+            "#000000E6"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1e1c19"
+            "#0d0d0d"
         ],
         "CHANNEL_ICON": [
             "#aaaaaa"
         ],
         "CHAT_BACKGROUND": [
-            "#1b1916"
+            "#080808"
         ],
         "CARD_PRIMARY_BG": [
-            "#1e1c19"
+            "#0d0d0d"
         ]
     },
     "rawColors": {
@@ -130,12 +130,12 @@
         "PRIMARY_300": "#aaaaaa",
         "PRIMARY_360": "#888888",
         "PRIMARY_400": "#666666",
-        "PRIMARY_600": "#1b1916",
-        "PRIMARY_630": "#1e1c19",
-        "PRIMARY_660": "#21201c",
-        "PRIMARY_700": "#21201c",
-        "PRIMARY_800": "#181614",
-        "BLACK_500": "#0a0907CC",
+        "PRIMARY_600": "#080808",
+        "PRIMARY_630": "#0d0d0d",
+        "PRIMARY_660": "#111111",
+        "PRIMARY_700": "#111111",
+        "PRIMARY_800": "#000000",
+        "BLACK_500": "#000000E6",
         "BRAND_260": "#aaaaaa",
         "BRAND_360": "#888888",
         "BRAND_500": "#777777",
@@ -144,11 +144,11 @@
         "GREEN_600": "#e0e0e0",
         "RED_400": "#bbbbbb",
         "WHITE_500": "#f0f0f0",
-        "GREEN_360": "#555350",
-        "PLUM_23": "#252320",
-        "PLUM_20": "#181614",
-        "PLUM_18": "#181614",
-        "PLUM_17": "#1b1916",
+        "GREEN_360": "#444444",
+        "PLUM_23": "#181818",
+        "PLUM_20": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_17": "#080808",
         "PLUM_16": "#777777",
         "PLUM_13": "#888888",
         "PLUM_10": "#c8c8c8",
