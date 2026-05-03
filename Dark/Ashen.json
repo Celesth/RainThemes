@@ -125,6 +125,9 @@
         "BORDER_MUTED": [
             "#c8c8c8"
         ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#c8c8c8"
+        ],
         "THREAD_CHANNEL_SPINE": [
             "#c8c8c8"
         ]
