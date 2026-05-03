@@ -1,6 +1,6 @@
 {
     "name": "Ashen",
-    "description": "Pure black and greyscale theme — no color, just contrast",
+    "description": "Greyscale theme on warm almond-black — white mention pings, no color",
     "authors": [
         {
             "name": "Celesth",
@@ -30,70 +30,70 @@
             "#f0f0f0"
         ],
         "INTERACTIVE_MUTED": [
-            "#2e2e2e"
+            "#2e2b28"
         ],
         "BACKGROUND_PRIMARY": [
-            "#111111"
+            "#181614"
         ],
         "BACKGROUND_SECONDARY": [
-            "#111111"
+            "#181614"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#161616"
+            "#1d1b18"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#141414"
+            "#1b1916"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#1c1c1c"
+            "#21201c"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1c1c1c"
+            "#21201c"
         ],
         "BACKGROUND_ACCENT": [
-            "#555555"
+            "#555350"
         ],
         "BACKGROUND_FLOATING": [
-            "#111111"
+            "#181614"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#141414"
+            "#1b1916"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#141414"
+            "#1b1916"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#111111"
+            "#181614"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1a1a1a"
+            "#1e1c19"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1a1a1a"
+            "#1e1c19"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#222222"
+            "#252320"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2a2a2a"
+            "#2c2a27"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#141414"
+            "#1b1916"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#333333"
+            "#333230"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#555555"
+            "#555350"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1a1a1a"
+            "#1e1c19"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1a1a"
+            "#1e1c19"
         ],
         "CHANNELS_DEFAULT": [
             "#aaaaaa"
@@ -105,22 +105,22 @@
             "#bbbbbb"
         ],
         "KEYBOARD": [
-            "#111111"
+            "#181614"
         ],
         "BG_BACKDROP": [
-            "#000000CC"
+            "#0a0907CC"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1a1a1a"
+            "#1e1c19"
         ],
         "CHANNEL_ICON": [
             "#aaaaaa"
         ],
         "CHAT_BACKGROUND": [
-            "#141414"
+            "#1b1916"
         ],
         "CARD_PRIMARY_BG": [
-            "#1a1a1a"
+            "#1e1c19"
         ]
     },
     "rawColors": {
@@ -130,25 +130,25 @@
         "PRIMARY_300": "#aaaaaa",
         "PRIMARY_360": "#888888",
         "PRIMARY_400": "#666666",
-        "PRIMARY_600": "#141414",
-        "PRIMARY_630": "#1a1a1a",
-        "PRIMARY_660": "#1c1c1c",
-        "PRIMARY_700": "#1c1c1c",
-        "PRIMARY_800": "#111111",
-        "BLACK_500": "#000000CC",
+        "PRIMARY_600": "#1b1916",
+        "PRIMARY_630": "#1e1c19",
+        "PRIMARY_660": "#21201c",
+        "PRIMARY_700": "#21201c",
+        "PRIMARY_800": "#181614",
+        "BLACK_500": "#0a0907CC",
         "BRAND_260": "#aaaaaa",
         "BRAND_360": "#888888",
         "BRAND_500": "#777777",
         "BRAND_560": "#666666",
-        "YELLOW_300": "#aaaaaa",
-        "GREEN_600": "#777777",
+        "YELLOW_300": "#f0f0f0",
+        "GREEN_600": "#e0e0e0",
         "RED_400": "#bbbbbb",
         "WHITE_500": "#f0f0f0",
-        "GREEN_360": "#555555",
-        "PLUM_23": "#222222",
-        "PLUM_20": "#111111",
-        "PLUM_18": "#111111",
-        "PLUM_17": "#141414",
+        "GREEN_360": "#555350",
+        "PLUM_23": "#252320",
+        "PLUM_20": "#181614",
+        "PLUM_18": "#181614",
+        "PLUM_17": "#1b1916",
         "PLUM_16": "#777777",
         "PLUM_13": "#888888",
         "PLUM_10": "#c8c8c8",
